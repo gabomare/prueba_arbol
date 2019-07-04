@@ -8,3 +8,5 @@ Notará que la página presentada muestra un error, sin embargo, los métodos de
 problema (el error se presenta debido a que se espera un documento predeterminado como un index.html). 
 En la barra de direcciones, estará la URL de ejecución junto con el puerto. 
 Dicha URL se necesitará para la prueba del API Rest mediante el proyecto de Front End.
+
+Si decide probar el api desde postman, baje el arhivo json que se encuentra en https://github.com/gabomare/Manual e importelo en postman; una vez importado, se mostrarán los 4 requests con los que podrá probar el api. Debe tener en cuenta que la url de cada petición, debe ser cambiada por la url que se despliegue al momento de la ejecución del proyecto. Si, por el contrario, desea probar el api usando el front end, entonces lea todo el manual que se encuentra en https://github.com/gabomare/Manual
