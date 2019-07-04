@@ -1,5 +1,4 @@
 # prueba_arbol
-prueba técnica arbol binario masivian
 Una vez bajado el proyecto de github, obtendrá una carpeta llamada prueba_arbol-master, dentro de ella encontrará la solución del 
 API llamada restArbol.sln.  Abra dicha solución. Al abrirla, encontrará dos proyectos, el del API Rest llamado restArbol y 
 el proyecto de las pruebas unitarias llamado restArbol.Tests. Para ejecutar el API Rest, asegúrese de tener el foco sobre 
